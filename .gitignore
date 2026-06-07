@@ -1,0 +1,20 @@
+# LocalMind index (regenerated locally)
+.localmind_index/
+
+# User documents — don't commit private files
+docs/*
+!docs/.gitkeep
+!docs/sample.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

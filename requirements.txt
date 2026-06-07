@@ -1,0 +1,4 @@
+ollama>=0.3.0
+streamlit>=1.36.0
+pypdf>=4.2.0
+numpy>=1.26.0
