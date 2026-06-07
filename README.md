@@ -33,10 +33,7 @@ Powered by [Ollama](https://ollama.com) — **no API keys, no cloud, nothing eve
 > _Add a screen recording here once you run it — a GIF in the first screen is the
 > single biggest driver of GitHub stars._
 
-```
-You:        What is the secret passphrase?
-LocalMind:  The secret passphrase is "blue penguin 42", according to sample.md.
-```
+
 
 ## 🚀 Quickstart
 
@@ -57,12 +54,7 @@ cd localmind
 pip install -r requirements.txt
 ```
 
-### 3. Add your documents and run
 
-```bash
-# Drop your PDFs / .txt / .md files into the docs/ folder, then:
-streamlit run app.py
-```
 
 Click **(Re)build index** in the sidebar, and start asking questions. That's it!
 
