@@ -28,10 +28,6 @@ Powered by [Ollama](https://ollama.com) — **no API keys, no cloud, nothing eve
 > Perfect for searching study notes, research papers, contracts, or any pile of
 > documents you'd rather not upload to the cloud.
 
-## 🎬 Demo
-
-> _Add a screen recording here once you run it — a GIF in the first screen is the
-> single biggest driver of GitHub stars._
 
 
 
